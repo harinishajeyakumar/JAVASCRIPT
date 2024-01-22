@@ -1,8 +1,8 @@
-
+/*
 //Assignament operator
 var a=10
 console.log("Assignment operator output",a)
-//Arithmetic operator
+//Arithmetic operator-> +,-,*,/,++
 var aA=10
 var bA=10
 console.log(typeof(aA))
@@ -31,3 +31,13 @@ console.log("Arithmetic operator Increment output",aA++)
  console.log((100||20)&&0)//In or condition if first condition false it executed second conditionconsole.log((100||20)&&0)
  console.log(0&&(100||20))
  console.log(0&&100||20)
+//relational operator -> <,>,<=,>=,===,!== output=> true or false
+aR= 20
+br = 29
+console.log("Relational operator > is:",aR > br)
+console.log("Relational operator >= is:",aR >= br)
+console.log("Relational operator < is:",aR < br)
+console.log("Relational operator <= is:",aR <= br)
+console.log("Relational operator === is:",aR === br)// use === or == but use ===
+console.log("Relational operator !== is:",aR !== br)
+*/
